@@ -54,10 +54,6 @@ npm -v
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
-
-For any queries or feedback, reach out to [yeabtsega20@gmail.com](mailto:yeabtsega20@gmail.com).
-
 ## Known Issues
 
 - There are currently no known issues. If you encounter any, please report them.
